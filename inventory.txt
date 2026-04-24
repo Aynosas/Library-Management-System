@@ -1,0 +1,20 @@
+Book, B001, The Great Gatsby, F. Scott Fitzgerald, 1925, Fiction, 9780743273565
+Book, B002, To Kill a Mockingbird, Harper Lee, 1960, Fiction, 9780061120084
+Book, B003, 1984, George Orwell, 1949, Dystopian, 9780451524935
+Book, B004, Pride and Prejudice, Jane Austen, 1813, Romance, 9780141439518
+Book, B005, Moby Dick, Herman Melville, 1851, Adventure, 9781503280786
+Book, B006, The Hobbit, J.R.R. Tolkien, 1937, Fantasy, 9780547928227
+Book, B007, Fahrenheit 451, Ray Bradbury, 1953, Dystopian, 9781451673319
+Magazine, M001, National Geographic, Various, 2025, 12, March
+Magazine, M002, TIME, Various, 2025, 15, April
+Magazine, M003, Vogue, Various, 2025, 8, May
+Magazine, M004, Wired, Various, 2024, 10, June
+Magazine, M005, The Economist, Various, 2024, 20, July
+Magazine, M006, Scientific American, Various, 2025, 6, January
+Magazine, M007, People, Various, 2025, 22, February
+DVD, D001, Inception, Christopher Nolan, 2010, 148, PG-13
+DVD, D002, The Matrix, Lana Wachowski, 1999, 136, R
+DVD, D003, The Godfather, Francis Ford Coppola, 1972, 175, R
+DVD, D004, Titanic, James Cameron, 1997, 195, PG-13
+DVD, D005, The Dark Knight, Christopher Nolan, 2008, 152, PG-13
+DVD, D006, Forrest Gump, Robert Zemeckis, 1994, 142, PG-13
